@@ -1,1 +1,1 @@
-# active-leatning-stimulation
+# active-learning-stimulation
